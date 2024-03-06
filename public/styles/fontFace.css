@@ -40,9 +40,17 @@
 
 @font-face {
   font-family: 'TT Lakes';
-  src: url('../fontsTTLakes-ExtraBold.woff2') format('woff2');
+  src: url('../TTLakes-ExtraBold.woff2') format('woff2');
   font-weight: 800;
   font-style: normal;
   font-display: swap;
 }
 
+/* @font-face {
+  font-family: 'TT Lakes Compressed';
+  src: url('../TTLakesCompressed-ExtraBold.woff2') format('woff2');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+ */
